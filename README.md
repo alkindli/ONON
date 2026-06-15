@@ -2,7 +2,7 @@ Senior controll'd
 https://developer.nvidia.com/opencl
 
 Supported Versions
-Repository is meant for open github.
+Generic
 
 Version	Supported
 0.0.0.0.0.10	✅
