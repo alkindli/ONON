@@ -3,6 +3,7 @@ https://developer.nvidia.com/opencl
 
 Supported Versions
 Generic
+So, were aiming for entrusted.
 
 Version	Supported
 0.0.0.0.0.10	✅
