@@ -3,7 +3,7 @@ https://developer.nvidia.com/opencl
 
 Supported Versions:
 Generic.
-So, were aiming for entrusted.
+So, we were aiming for entrusted.
 Certificates can detonate, but it sadly "can", be up to attendee.
 16.06.2026 16:19 PM "Difficult prominent is not aqua."
 
